@@ -1,0 +1,10 @@
+{
+  "prefix": "pls",
+  "logsChannel": "logs",
+  "reportsChannel": "reports",
+
+  "activity": {
+    "streaming": true,
+    "game": "Minekwaft"
+  }
+}
